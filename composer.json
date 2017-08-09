@@ -1,5 +1,5 @@
 {
-    "name": "matijabelec/Mqtt",
+    "name": "matijabelec/mqtt-php",
     "description": "Mqtt wrapper for mosquitto",
     "license": "MIT",
     "keywords": ["mqtt"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MatijaBelec\\Mqtt\\": "src"
+            "MatijaBelec\\Mqtt": "src"
         }
     }
 }
